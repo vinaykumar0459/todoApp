@@ -1,0 +1,10 @@
+@import '../../assets/css/variables';
+
+.boxShadow {
+    position: relative;
+    .checkbox {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+    }
+}
